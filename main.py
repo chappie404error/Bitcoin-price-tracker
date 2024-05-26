@@ -31,9 +31,9 @@ def get_bitcoin_price_from_binance():
 
 
 final_verdict = (f" BIT COIN PRICE \n"
-                 f"COINDESK = {get_bitcoin_price_from_coindesk()}\n"
-                 f"COINGECKO = {get_bitcoin_price_from_coingecko()}\n"
-                 f"BINANCE = {get_bitcoin_price_from_binance()} \n"
+                 f"COINDESK = {get_bitcoin_price_from_coindesk()}$\n"
+                 f"COINGECKO = {get_bitcoin_price_from_coingecko()}$\n"
+                 f"BINANCE = {get_bitcoin_price_from_binance()}$ \n"
 
                  )
 
